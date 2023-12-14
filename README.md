@@ -1,4 +1,4 @@
-# Simulated-Annealing-Cell-Placer
+# Simulated Annealing Cell Placer for ASIC
 # Description
 This repository contains the implementation of a Simulated Annealing (SA) algorithm for optimizing cell placement. The project aims to minimize the total wire length in a grid layout, showcasing the effectiveness of SA in solving complex optimization problems. It includes a C++ algorithm implementation and Python data visualization scripts.
 
